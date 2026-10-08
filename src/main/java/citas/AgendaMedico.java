@@ -19,6 +19,6 @@ public class AgendaMedico {
     public List<String> consultarAgenda() {
         return citasDelDia;
     }
-
+     //asi esta bien 
     public boolean tieneCitas() { return !citasDelDia.isEmpty(); }
 }
