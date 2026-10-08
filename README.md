@@ -1,4 +1,4 @@
-# PorAhoraSinNombre - Proyecto de Aula
+# PorAhoraSinNombre - Proyecto 
 
 Descripción en una línea de qué hace el proyecto.
 
