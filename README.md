@@ -4,7 +4,8 @@ Descripción en una línea de qué hace el proyecto.
 
 ## Integrantes
 - Sebastián Fontalvo Ayola – @sebastianproultra-create
-- 
+- esteban nagle – @nagle-ing
+
 
 ## Tecnologías
 - Java 17
